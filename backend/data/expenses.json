@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1764077767627",
+    "amount": 5000,
+    "date": "2025-11-25",
+    "type": "income",
+    "category": "Salary"
+  },
+  {
+    "id": "1764077826118",
+    "amount": 500,
+    "date": "2025-11-25",
+    "type": "expense",
+    "category": "Other"
+  },
+  {
+    "id": "1764078005392",
+    "amount": 2000,
+    "date": "2025-10-25",
+    "type": "income",
+    "category": "Salary"
+  },
+  {
+    "id": "1764078096369",
+    "amount": 150,
+    "date": "2025-11-25",
+    "type": "expense",
+    "category": "Food"
+  },
+  {
+    "id": "1764078914407",
+    "amount": 500,
+    "date": "2025-11-25",
+    "type": "expense",
+    "category": "Utilities"
+  },
+  {
+    "id": "1764079089443",
+    "amount": 3000,
+    "date": "2025-10-25",
+    "type": "income",
+    "category": "Salary"
+  },
+  {
+    "id": "1764079207671",
+    "amount": 1000,
+    "date": "2025-11-20",
+    "type": "expense",
+    "category": "Shopping"
+  },
+  {
+    "id": "1764080447994",
+    "amount": 3000,
+    "date": "2025-09-25",
+    "type": "income",
+    "category": "Uncategorized"
+  }
+]
